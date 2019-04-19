@@ -1,4 +1,4 @@
-# temp_pred_jena_lstm
+# temp_pred_jena_gru
 Temperature predicted using GRU on Jena Global Warming dataset
 download dataset from
 
